@@ -1,0 +1,17 @@
+{
+	"name": "Cassio Hudson",
+	"website": "https://cassioisgreat.com",
+	"linkedin": "www.linkedin.com/in/cassio-hudson",
+	"github": "cassioblu55",
+	"email": "cassioblubyrd@gmail.com",
+	"resume": "foobar",
+	"proficientTechnologies": [
+		"Javascript",
+        "React",
+        "Java",
+		"Node",
+		"PostgreSQL",
+		"Wordpress"
+	],
+	"otherSkills": ["Unagi", "Five Finger Fillet", "Bridge"]
+}
